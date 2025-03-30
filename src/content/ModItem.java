@@ -12,4 +12,4 @@ public class ModItem {
                 cost = 0.5f;
                 alwaysUnlocked = true;
             }};
-        }
+        }}
