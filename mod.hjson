@@ -11,7 +11,7 @@ author: "鼠标"
 main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "强化战役难度"
+description: "强化战役"
 
 #the mod version
 version: 1.0
